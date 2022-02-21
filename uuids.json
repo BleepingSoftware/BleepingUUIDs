@@ -53,6 +53,15 @@
 	"00000000-0000-beef-002f-a00000000000" : {
 		"title" : "Configuration Service"
 	},
+	"00000000-0000-beef-002f-a00013000000" : {
+		"title" : "Sleep Timeout"
+	},
+	"00000000-0000-beef-002f-a00a13000000" : {
+		"title" : "Button ID"
+	},
+	"00000000-0000-beef-002f-a00a23000000" : {
+		"title" : "Button Action"
+	},
 	"00000000-0000-beef-003f-000000000000" : {
 		"title" : "Custom Service"
 	},
