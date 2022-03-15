@@ -53,6 +53,15 @@
 	"00000000-0000-beef-002f-a00000000000" : {
 		"title" : "Configuration Service"
 	},
+	"00000000-0000-beef-002f-a00001000000" : {
+		"title" : "Custom Config (R)"
+	},
+	"00000000-0000-beef-002f-a00002000000" : {
+		"title" : "Custom Config (W)"
+	},
+	"00000000-0000-beef-002f-a00003000000" : {
+		"title" : "Custom Config (RW)"
+	},
 	"00000000-0000-beef-002f-a00013000000" : {
 		"title" : "Sleep Timeout"
 	},
@@ -66,12 +75,12 @@
 		"title" : "Custom Service"
 	},
 	"00000000-0000-beef-003f-000001000000" : {
-		"title" : "Custom Property (R)"
+		"title" : "Custom Service (R)"
 	},
 	"00000000-0000-beef-003f-000002000000" : {
-		"title" : "Custom Property (W)"
+		"title" : "Custom Service (W)"
 	},
 	"00000000-0000-beef-003f-000003000000" : {
-		"title" : "Custom Property (RW)"
+		"title" : "Custom Service (RW)"
 	}
 }
